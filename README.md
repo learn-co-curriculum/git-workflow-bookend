@@ -2,8 +2,9 @@
 
 ## Looking Back
 
-Over the past several lessons, we built on the foundation of our Git basics
-knowledge to integrate Git more effectively in our workflow. We learned:
+Over the past several lessons, we continuing building on the Git knowledge
+foundation we began with Git basics by using technqiues to integrate Git more
+effectively in our workflow. We learned:
 
 - The primary role of branching
 - How to create a branch
@@ -19,9 +20,10 @@ knowledge to integrate Git more effectively in our workflow. We learned:
 - How to revert changes with `git checkout`
 
 As was true when we first learned Git, don't worry if all of these concepts or
-actions don't yet feel like second nature for you or you have to check back with
-your resource guides. The more you work with them, and the more you see how they
-make your coding easier, the better they will help you optimize your workflow.
+actions don't yet feel come naturally to you or you have to check back with your
+[resource guides](https://git-scm.com/book/en/v1/Git-Basics). The more you work
+[with them, and the more you see how they make your coding experience easier,
+[the better they will help you optimize your workflow.
 
 ## Looking Ahead
 
