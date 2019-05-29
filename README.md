@@ -3,7 +3,7 @@
 ## Looking Back
 
 Over the past several lessons, we continued building on our Git knowledge
-foundation by using technqiues to integrate Git more effectively in our
+foundation by using techniques to integrate Git more effectively in our
 workflow. We learned:
 
 - The primary role of branching
